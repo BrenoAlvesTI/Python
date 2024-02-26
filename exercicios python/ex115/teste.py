@@ -22,3 +22,5 @@ while True:
     else:
         print ('\033[31mERRO! digite um número inteiro válido!\033[m')
     sleep (1)
+    
+#Este programa cadastra pessoas
