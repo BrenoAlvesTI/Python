@@ -19,7 +19,7 @@ while True:
     while resposta not in 'SN':
         resposta = str (input ('Quer continuar? [S/N] ')).strip().upper()[0]
     if resposta == 'N':
-        print ('=-='*10)
+        print ('=-='*15)
         break
 print ('----------FIM DO PROGRAMA----------')
 print ('=-='*15)

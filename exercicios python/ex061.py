@@ -6,6 +6,8 @@ while c <= 10:
     print (f'{pt} > ', end = '')
     pt = pt + razao
     c = c + 1
-    
+print ('=-='*25)   
 print ('Fim')
-print ('=-='*10)
+print ('=-='*25)
+
+#Este programa faz uma contagem personalizada de 10 números

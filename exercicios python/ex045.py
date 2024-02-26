@@ -2,7 +2,8 @@ from random import randint
 from time import sleep
 items = ('pedra','papel','tesoura')
 computador = randint(0, 2)
-print ('''OPÇÕES:
+print ('''VAMOS JOGAR JOKENPO!
+OPÇÕES:
 [ 0 ] PEDRA
 [ 1 ] PAPEL
 [ 2 ] TESOURA''')
@@ -13,10 +14,10 @@ print('KEN')
 sleep(1)
 print('PO!!!')
 sleep(1)
-print ('-='*5)
+print ('-='*15)
 print ('Computador jogou {}'.format(items[computador]))
 print ('Jogador jogou {}'.format(items[jogada]))
-print ('-='*5)
+print ('-='*15)
 if computador == 0:
     if jogada == 0:
         print ('EMPATE!!!')
