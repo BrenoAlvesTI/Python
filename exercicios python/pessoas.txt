@@ -1,5 +1,0 @@
-Breno;17
-Gustavo;34
-Maria;24
-Brayan;11
-Dienifer Janner;21
